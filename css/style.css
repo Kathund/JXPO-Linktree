@@ -1,0 +1,109 @@
+/* RESET */
+
+* {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: #000000;
+  text-decoration: none;
+  color: #fff;
+}
+
+body {
+  font-family: 'Heebo', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.username {
+  margin-bottom: 28px;
+  transition: width 0.6s, height 0.6s;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #242222;
+  width: 140px;
+  height: 35px;
+}
+
+.username:hover {
+  width: 210px;
+  height: 35px;
+}
+
+.logo {
+  transition: width 0.6s, height 0.6s;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 32px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo:hover {
+  width: 225px;
+  height: 225px;
+}
+
+.youtube {
+  margin-bottom: 28px;
+  transition: width 0.6s, height 0.6s;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 48px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #242222;
+  width: 480px;
+  height: 70px;
+}
+
+.youtube:hover {
+  width: 600px;
+  height: 70px;
+}
+
+.discord {
+  margin-bottom: 28px;
+  transition: width 0.6s, height 0.6s;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 48px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #242222;
+  width: 480px;
+  height: 70px;
+}
+
+.discord:hover {
+  width: 600px;
+  height: 70px;
+}
+
+.who {
+  margin-bottom: 28px;
+  transition: width 0.6s, height 0.6s;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 260px;
+  height: 35px;
+}
+
+.who:hover {
+  width: 330px;
+  height: 35px;
+}
